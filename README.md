@@ -1,8 +1,3 @@
-POR HACER:
-
-• Debe haber un elemento con movimiento que facilite lograr el objetivo del jugador y otro que lo dificulte. -> https://www.youtube.com/watch?v=WwykTUvdgdo&ab_channel=CrisTechCuts  min 2:22
-
-------------------------------------------------------------------------------------------------------------------------------------------------
 REVISAR PORQUE LITERALMENTE NO SÉ QUÉ ME ESTÁ PREGUNTANDO EL ENUNCIADO YA QUE ESTO NO VENÍA EN LA TEORÍA Y VOY A LLORAR:
 
 • Get de la vida del personaje para sumar hasta 10 y no pasarnos (en checkpoint)
@@ -17,6 +12,12 @@ REVISAR PORQUE LITERALMENTE NO SÉ QUÉ ME ESTÁ PREGUNTANDO EL ENUNCIADO YA QUE
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+EXTRAS QUE SE ME HAN OCURRIDO PERO QUE NO PROMETO QUE SALGAN:
+
+• Poner un widget abajo de la vida que te han quitado cada vez que te atacan
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 HECHO:
 
 • Se debe crear un juego de un sólo nivel y el objetivo del juego es libre. Puede ser recoger objetos o llegar a checkpoints, etc.
@@ -28,3 +29,5 @@ HECHO:
 • Debe haber un ejemplo de función definida por el usuario.
 
 • Debe haber un ejemplo de comunicación directa, otro de comunicación con interfaz y otro de comunicación mediante emisión de eventos.
+
+• Debe haber un elemento con movimiento que facilite lograr el objetivo del jugador y otro que lo dificulte.
