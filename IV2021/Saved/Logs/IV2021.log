@@ -3751,3 +3751,638 @@ Script Stack (0 frames):
 [2021.12.25-20.48.13:324][110]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2021.12.25-20.48.13:324][110]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/Blueprints_propios/HUD.HUD
 [2021.12.25-20.48.13:326][110]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.25-22.01.43:389][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2021.12.25-22.01.44:030][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2021.12.25-22.01.45:408][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.25-22.01.46:907][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2021.12.25-22.01.48:288][506]Cmd: DELETE
+[2021.12.25-22.01.48:288][506]Cmd: ACTOR DELETE
+[2021.12.25-22.01.48:382][506]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.25-22.01.49:825][506]LogUObjectHash: Compacting FUObjectHashTables data took  59.91ms
+[2021.12.25-22.01.49:856][506]LogEditorActor: Deleted 1 Actors (1.544 secs)
+[2021.12.25-22.01.57:102][812]Cmd: TRANSACTION UNDO
+[2021.12.25-22.01.57:102][812]LogEditorTransaction: Undo Delete Actors
+[2021.12.25-22.01.57:947][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2021.12.25-22.02.01:126][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.12.25-22.02.10:874][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.12.25-22.02.27:821][ 35]Cmd: MODE SCALEGRID=0
+[2021.12.25-22.03.23:433][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.12.25-22.03.24:775][373]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.24:775][373]LogEditorTransaction: Undo Scale Actors
+[2021.12.25-22.03.25:212][380]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.25:215][380]LogEditorTransaction: Undo Scale Actors
+[2021.12.25-22.03.25:636][396]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.25:637][396]LogEditorTransaction: Undo Scale Actors
+[2021.12.25-22.03.26:002][411]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.26:010][411]LogEditorTransaction: Undo Set Actor Visibility
+[2021.12.25-22.03.26:527][431]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.26:527][431]LogEditorTransaction: Undo Set Actor Visibility
+[2021.12.25-22.03.26:938][448]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.26:938][448]LogEditorTransaction: Undo Scale Actors
+[2021.12.25-22.03.27:377][465]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.27:385][465]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.25-22.03.27:908][484]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.27:908][484]LogEditorTransaction: Undo Move Actors
+[2021.12.25-22.03.28:730][517]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.28:730][517]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.25-22.03.29:336][540]Cmd: TRANSACTION UNDO
+[2021.12.25-22.03.29:337][540]LogEditorTransaction: Undo Set Actor Visibility
+[2021.12.25-22.03.36:391][823]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo)
+[2021.12.25-22.04.18:988][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.12.25-22.04.19:133][565]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap_Auto25CCBEFC74D4003B1F6BD9391D15AE3AE.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.12.25-22.04.19:139][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.295
+[2021.12.25-22.04.19:140][565]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.295
+[2021.12.25-22.06.05:294][971]Cmd: TRANSACTION UNDO
+[2021.12.25-22.06.05:295][971]LogEditorTransaction: Undo Scale Actors
+[2021.12.25-22.06.58:342][270]LogEditorViewport: Clicking on Actor (LMB): Enemigo_C (Enemigo)
+[2021.12.25-22.07.46:117][450]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.25-22.07.46:151][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.25-22.07.46:153][450]PIE: New page: PIE session: ThirdPersonExampleMap (26 dic. 2021 0:07:46)
+[2021.12.25-22.07.46:158][450]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-22.07.46:191][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032181s)
+[2021.12.25-22.07.46:197][450]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.25-22.07.46:198][450]LogPlayLevel: PIE: World Init took: (0.007048s)
+[2021.12.25-22.07.46:198][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040284s)
+[2021.12.25-22.07.46:315][450]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.12.25-22.07.46:323][450]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.12.25-22.07.46:323][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.25-22.07.46:323][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.25-22.07.46:324][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.25-22.07.46:324][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.25-22.07.46:324][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.25-22.07.46:324][450]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.25-22.07.46:324][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.25-22.07.46:324][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.25-22.07.46:325][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.25-22.07.46:325][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.25-22.07.46:325][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.25-22.07.46:325][450]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.25-22.07.46:335][450]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.25-22.07.46:336][450]LogAudioMixer: Display: 1: FrontRight
+[2021.12.25-22.07.46:375][450]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.25-22.07.46:385][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.25-22.07.46:386][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.25-22.07.46:386][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.25-22.07.46:392][450]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.25-22.07.46:392][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.25-22.07.46:392][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.25-22.07.46:396][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.25-22.07.46:396][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.25-22.07.46:396][450]LogInit: FAudioDevice initialized.
+[2021.12.25-22.07.46:396][450]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonExampleMap'.
+[2021.12.25-22.07.46:473][450]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.25-22.07.46:479][450]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.25-23.07.46
+[2021.12.25-22.07.46:480][450]LogWorld: Bringing up level for play took: 0.006559
+[2021.12.25-22.07.46:483][450]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.12.25-22.07.46:504][450]PIE: Server logged in
+[2021.12.25-22.07.46:506][450]PIE: Play in editor total start time 0,363 seconds.
+[2021.12.25-22.08.12:177][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.25-22.08.12:177][612]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-22.08.12:178][612]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-22.08.12:179][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-22.08.12:219][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.25-22.08.12:241][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-22.08.12:313][612]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.25-22.08.12:314][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-22.08.12:315][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-22.08.12:320][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.25-22.08.12:329][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.12.25-22.08.12:393][613]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2021.12.25-22.08.24:893][995]LogContentBrowser: Attempting asset rename: Enemigo -> Enemigo
+[2021.12.25-22.08.29:061][109]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.25-22.08.29:073][109]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.25-22.08.30:378][109]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.25-22.08.30:431][109]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.25-22.08.30:487][109]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.25-22.08.40:509][564]LogContentBrowser: Attempting asset rename: NewBlueprint -> Pelele
+[2021.12.25-22.08.40:548][564]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.25-22.09.06:165][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele
+[2021.12.25-22.09.09:520][911]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-22.09.09:521][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-22.09.09:564][911]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-22.09.09:565][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-22.09.45:101][702]LogEditorTransaction: Undo Attach Component
+[2021.12.25-22.11.06:617][693]LogEditorTransaction: Undo Attach Component
+[2021.12.25-22.11.07:122][702]LogEditorTransaction: Undo Attach Component
+[2021.12.25-22.11.13:082][979]LogEditorTransaction: Undo Attach Component
+[2021.12.25-22.11.36:467][ 53]LogEditorTransaction: Undo Modify Component(s)
+[2021.12.25-22.11.39:196][186]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-22.11.39:197][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-22.11.57:356][710]LogUObjectHash: Compacting FUObjectHashTables data took  10.11ms
+[2021.12.25-22.12.05:917][710]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.25-22.12.06:191][710]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele
+[2021.12.25-22.12.11:386][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.12.25-22.12.11:610][710]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.12.25-22.14.04:621][909]LogHttp: Warning: 00000273A692CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46CB6DF0-42DC-5FC7-DF66-DF84F5B5F272%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=61c851cf452cbfb7c2277c94b942a7bd%7C9f7c816660634fa2bc4404859711ff8a%7Ce60dfba3-c882-4f0e-8473-d396e93875fd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: request failed, libcurl error: 0 (No error)
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2725f107eb0 [can pipeline])
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.87.63.113) port 443 (#1))
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 7 (Closing connection 1)
+[2021.12.25-22.14.04:623][909]LogHttp: Warning: 00000273A692CF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.12.25-22.14.04:631][909]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B46CB6DF0-42DC-5FC7-DF66-DF84F5B5F272%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=61c851cf452cbfb7c2277c94b942a7bd%7C9f7c816660634fa2bc4404859711ff8a%7Ce60dfba3-c882-4f0e-8473-d396e93875fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.12.25-22.14.45:643][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.12.25-22.14.45:697][703]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap_Auto3F6CC911A4282ABA78CAA018141A2ABD7.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.12.25-22.14.45:703][703]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.122
+[2021.12.25-22.14.45:703][703]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.122
+[2021.12.25-22.15.32:876][761]LogContentBrowser: Attempting asset rename: Enemigo -> Pelele
+[2021.12.25-22.15.32:958][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:959][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.SKEL_Pelele_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:959][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:959][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:959][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:959][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:959][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:960][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.SKEL_Pelele_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:960][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.SKEL_Pelele_C:BndEvt__Enemigo_Box_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:960][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.SKEL_Pelele_C:BndEvt__Enemigo_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:960][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.SKEL_Pelele_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:960][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.SKEL_Pelele_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.32:960][761]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints_propios/Pelele.SKEL_Pelele_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints_propios/Enemigo.PackageMetaData'
+[2021.12.25-22.15.33:156][761]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PeleleDBBD9B48478AF28DBE5ACC9D8A63FE6F.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Pelele.uasset'
+[2021.12.25-22.15.33:167][761]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/EnemigoC8D26F2E4E473927E9AA8FA21509F56D.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Enemigo.uasset'
+[2021.12.25-22.15.33:266][761]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.25-22.15.33:266][761]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele
+[2021.12.25-22.15.33:266][761]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints_propios/Enemigo.Enemigo
+[2021.12.25-22.15.33:266][761]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints_propios/Enemigo.Default__Enemigo_C
+[2021.12.25-22.15.33:266][761]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints_propios/Enemigo.Enemigo_C
+[2021.12.25-22.15.37:967][916]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.25-22.15.37:974][916]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.25-22.15.39:531][916]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.25-22.15.39:556][916]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.25-22.15.39:603][916]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.25-22.15.49:077][349]LogContentBrowser: Attempting asset rename: NewBlueprint -> EnemigosEnGeneral
+[2021.12.25-22.15.49:100][349]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.25-22.15.51:446][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/EnemigosEnGeneral.EnemigosEnGeneral
+[2021.12.25-22.17.11:691][381]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.25-22.17.11:728][381]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.25-22.18.18:623][171]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.25-22.18.18:646][171]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.25-22.18.18:683][171]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.25-22.18.21:772][312]LogContentBrowser: Attempting asset rename: NewBlueprint -> Fuego
+[2021.12.25-22.18.21:792][312]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.25-22.18.23:890][382]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego
+[2021.12.25-22.24.45:918][446]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2021.12.25-22.24.46:046][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.25-22.24.46:090][446]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap73CEAC0E4C2403A460406AB551004630.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.25-22.24.46:105][446]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.121
+[2021.12.25-22.24.46:138][446]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/EnemigosEnGeneral3011365F48F79FB690EED9A5859B4358.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/EnemigosEnGeneral.uasset'
+[2021.12.25-22.24.46:157][446]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Fuego4D82798A4067152CAF646DAB13001CD1.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Fuego.uasset'
+[2021.12.25-22.24.46:206][446]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.25-22.24.46:206][446]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.25-22.24.46:206][446]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego
+[2021.12.25-22.24.46:206][446]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/EnemigosEnGeneral.EnemigosEnGeneral
+[2021.12.25-22.25.59:445][295]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2021.12.25-22.25.59:510][295]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2021.12.25-22.26.13:458][996]LogContentBrowser: Attempting asset rename: NewParticleSystem -> Fuego_Partículas
+[2021.12.25-22.26.13:467][996]LogContentBrowser: End creating deferred item NewParticleSystem
+[2021.12.25-22.26.18:079][192]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ThirdPersonBP/Blueprints_propios/Fuego_Partículas.Fuego_Partículas
+[2021.12.25-22.26.18:467][192]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0102 seconds. Added 2 classes and 2 folders.
+[2021.12.25-22.26.18:712][192]LogMaterial: Display: Missing cached shadermap for DefaultParticle in PCD3D_SM5, Default, SM5 (DDC key hash: 2C501775599AAE3BE283B6344B4031E08002DA4A), compiling. 
+[2021.12.25-22.26.19:232][192]LogShaderCompilers: Display: Submitted 182 shader compile jobs with 'Low' priority
+[2021.12.25-22.26.19:241][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 182
+[2021.12.25-22.26.19:241][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 172
+[2021.12.25-22.26.19:241][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 162
+[2021.12.25-22.26.19:242][192]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2021.12.25-22.26.43:811][642]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.12.25-22.26.43:812][642]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.26.43:812][642]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.25-22.26.43:812][642]LogShaderCompilers: Display: Total job queries 182, among them cache hits 0 (0.00%)
+[2021.12.25-22.26.43:812][642]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2021.12.25-22.26.43:812][642]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2021.12.25-22.26.43:813][642]LogShaderCompilers: Display: ================================================
+[2021.12.25-22.26.47:716][742]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.12.25-22.26.47:723][742]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.26.49:421][746]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.12.25-22.26.49:422][746]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.26.51:364][750]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.12.25-22.26.51:364][750]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.26.52:529][771]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.25-22.26.52:529][771]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.26.53:165][780]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 141
+[2021.12.25-22.26.53:174][780]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.26.53:694][783]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 131
+[2021.12.25-22.26.53:694][783]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.26.54:305][790]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 121
+[2021.12.25-22.26.54:305][790]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.27.08:285][990]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 111
+[2021.12.25-22.27.08:285][990]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.27.10:467][ 21]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 101
+[2021.12.25-22.27.10:468][ 21]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.27.12:233][ 41]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 91
+[2021.12.25-22.27.12:233][ 41]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.27.22:501][160]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 81
+[2021.12.25-22.27.22:502][160]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.27.28:386][225]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 71
+[2021.12.25-22.27.28:386][225]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.27.34:994][307]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2021.12.25-22.27.34:994][307]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.27.47:053][444]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2021.12.25-22.27.47:053][444]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.27.54:496][532]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2021.12.25-22.27.54:496][532]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.00:567][597]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.12.25-22.28.00:567][597]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.20:607][901]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.12.25-22.28.20:607][901]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.33:128][170]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV
+[2021.12.25-22.28.33:141][170]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: F091AA0283A4BBE2E790B1647F58FF39E3E53EA4), compiling. 
+[2021.12.25-22.28.33:203][170]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.33:258][170]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.12.25-22.28.33:545][170]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.25-22.28.35:397][170]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.12.25-22.28.35:397][170]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.35:403][170]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.25-22.28.35:403][170]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.35:407][170]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: B9A3DAA1B624C174CF9FE4CC0E8F15E5E07C5ABF), compiling. 
+[2021.12.25-22.28.35:417][170]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionDepthFade_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F959E3A041E0F4B952C17B8BFE1886E8341874F), compiling. 
+[2021.12.25-22.28.35:424][170]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionParticleSubUV_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C3755BC847C8FF43EA36D4ED480935550A9461D2), compiling. 
+[2021.12.25-22.28.35:428][170]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 37B4E1B012C332A30BB543901F12C80B4FD69B17), compiling. 
+[2021.12.25-22.28.38:484][170]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.25-22.28.38:484][170]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.38:484][170]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.25-22.28.38:484][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.12.25-22.28.38:484][170]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.25-22.28.38:781][171]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.39:082][174]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.28.41:080][241]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.25-22.28.41:080][241]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.12.25-22.28.41:080][241]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.28.45:317][274]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.25-22.28.45:317][274]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.47:975][304]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.25-22.28.47:976][304]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.48:426][307]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.12.25-22.28.48:427][307]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.28.48:500][308]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.25-22.28.48:500][308]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.12.25-22.28.48:500][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.25-22.28.54:247][437]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.28.54:997][471]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.29.00:692][748]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.12.25-22.29.00:692][748]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.29.01:674][788]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.12.25-22.29.01:674][788]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.29.05:858][919]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.25-22.29.05:858][919]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.25-22.29.05:858][919]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.25-22.29.05:858][919]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.25-22.29.05:910][920]MaterialEditorStats: Base pass shader without light map: 81 instructions
+[2021.12.25-22.29.05:910][920]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2021.12.25-22.29.05:910][920]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.25-22.29.05:911][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.12.25-22.29.05:911][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.25-22.29.24:628][434]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/StarterContent/Textures/T_Fire_SubUV.T_Fire_SubUV
+[2021.12.25-22.29.24:746][434]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.12.25-22.34.38:393][233]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.25-22.34.46:417][698]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.25-22.35.09:874][470]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.25-22.35.18:212][895]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.25-22.38.01:928][832]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Fuego_Partículas4FF0DACB478F028EF5459698592A1E9D.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Fuego_Partículas.uasset'
+[2021.12.25-22.38.01:977][832]AssetCheck: New page: Asset Save: Fuego_Partículas
+[2021.12.25-22.38.01:977][832]LogContentValidation: Display: Validating ParticleSystem /Game/ThirdPersonBP/Blueprints_propios/Fuego_Partículas.Fuego_Partículas
+[2021.12.25-22.39.21:950][146]BlueprintLog: New page: Compile Fuego
+[2021.12.25-22.39.23:258][146]LogUObjectHash: Compacting FUObjectHashTables data took  15.01ms
+[2021.12.25-22.39.29:745][460]LogUObjectHash: Compacting FUObjectHashTables data took  19.21ms
+[2021.12.25-22.39.29:853][460]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Fuego23F16F93423DF60C76EAE4985CC70669.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Fuego.uasset'
+[2021.12.25-22.39.29:884][460]AssetCheck: New page: Asset Save: Fuego
+[2021.12.25-22.39.29:884][460]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego
+[2021.12.25-23.38.58:671][379]LogCascade: Quitting Cascade. FXSystem=0x00000273D1826F80
+[2021.12.25-23.38.58:704][379]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.38.58:707][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.39.02:634][580]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2021.12.25-23.39.07:671][842]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.25-23.39.07:782][842]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.25-23.39.18:769][469]BlueprintLog: New page: Compile EnemigosEnGeneral
+[2021.12.25-23.39.18:922][469]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.12.25-23.39.21:838][629]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2021.12.25-23.39.21:928][629]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/EnemigosEnGeneral2BB493EB430D4991D543339603B024D4.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/EnemigosEnGeneral.uasset'
+[2021.12.25-23.39.21:961][629]AssetCheck: New page: Asset Save: EnemigosEnGeneral
+[2021.12.25-23.39.21:961][629]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/EnemigosEnGeneral.EnemigosEnGeneral
+[2021.12.25-23.40.02:710][ 54]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.40.02:710][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.40.57:147][140]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/CommandD7DF9D8F4EC622A3BB95EFA0B902DC63.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Command.uasset'
+[2021.12.25-23.40.57:178][140]AssetCheck: New page: Asset Save: Command
+[2021.12.25-23.40.57:178][140]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Command.Command
+[2021.12.25-23.40.58:172][199]BlueprintLog: New page: Compile Command
+[2021.12.25-23.40.58:409][199]LogUObjectHash: Compacting FUObjectHashTables data took  14.82ms
+[2021.12.25-23.42.11:220][349]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.12.25-23.42.11:448][349]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2021.12.25-23.44.12:046][215]BlueprintLog: New page: Compile Fuego
+[2021.12.25-23.44.12:059][215]LogBlueprint: Warning: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\Fuego.uasset: [Compiler] Could not find a variable named "Flag" in 'Fuego_C'.
+Make sure 'Fuego_C' has been compiled for  Get Flag
+[2021.12.25-23.44.12:059][215]LogBlueprint: Warning: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\Fuego.uasset: [Compiler] Could not find a variable named "Flag" in 'Fuego_C'.
+Make sure 'Fuego_C' has been compiled for  Set Flag
+[2021.12.25-23.44.12:061][215]LogBlueprint: Error: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\Fuego.uasset: [Compiler] The property associated with  Flag  could not be found in '/Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego_C'
+[2021.12.25-23.44.12:061][215]LogBlueprint: Error: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\Fuego.uasset: [Compiler] The property associated with  Flag  could not be found in '/Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego_C'
+[2021.12.25-23.44.12:212][215]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2021.12.25-23.45.03:994][217]BlueprintLog: New page: Compile Fuego
+[2021.12.25-23.45.04:119][217]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2021.12.25-23.45.35:827][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2021.12.25-23.45.35:956][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.12.25-23.45.36:023][ 27]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap2C3666414C5473C46B65E194DD0C6D34.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.25-23.45.36:042][ 27]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.162
+[2021.12.25-23.45.36:308][ 27]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonCharacterA6162C0943C75F84CCF389A7DEE9DC45.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.12.25-23.45.36:332][ 27]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Command_Energia9CCECE8D4CE26D84771D04B348E5CB63.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Command_Energia.uasset'
+[2021.12.25-23.45.36:427][ 27]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PeleleED1140DB4EBB14AEFA1A31A00EAAFAF7.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Pelele.uasset'
+[2021.12.25-23.45.36:459][ 27]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/FuegoBE56C3BE4F3D706E1F34B9B306192273.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Fuego.uasset'
+[2021.12.25-23.45.36:505][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.25-23.45.36:505][ 27]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.12.25-23.45.36:505][ 27]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.25-23.45.36:505][ 27]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego
+[2021.12.25-23.45.36:505][ 27]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Command_Energia.Command_Energia
+[2021.12.25-23.45.36:505][ 27]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele
+[2021.12.25-23.48.10:846][246]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.25-23.48.10:855][246]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.25-23.48.27:428][246]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.25-23.48.27:447][246]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.25-23.48.27:496][246]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.25-23.48.40:487][531]LogContentBrowser: Attempting asset rename: NewBlueprint -> FinalPartida
+[2021.12.25-23.48.40:505][531]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.25-23.48.42:717][578]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints_propios/FinalPartida.FinalPartida
+[2021.12.25-23.48.43:743][578]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.12.25-23.48.45:288][656]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2021.12.25-23.48.51:048][846]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/Blueprints_propios/MenúPrincipal.MenúPrincipal
+[2021.12.25-23.48.51:821][846]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_1' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.12.25-23.48.53:609][942]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2021.12.25-23.48.53:622][942]LogSlate: Window 'SequencerGraphEditor' being destroyed
+[2021.12.25-23.52.03:616][853]BlueprintLog: New page: Compile FinalPartida
+[2021.12.25-23.52.03:762][853]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2021.12.25-23.52.08:326][101]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/FinalPartida4094241E4B13A9C9CC1B0EA9BFD0D9B3.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/FinalPartida.uasset'
+[2021.12.25-23.52.08:358][101]AssetCheck: New page: Asset Save: FinalPartida
+[2021.12.25-23.52.08:358][101]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints_propios/FinalPartida.FinalPartida
+[2021.12.25-23.52.10:089][195]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.52.10:089][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.52.10:106][195]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.52.10:106][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.52.13:926][395]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.25-23.52.13:967][395]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.25-23.52.36:400][597]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonCharacter4039988046179498A2F7DBA6CFED6451.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.12.25-23.52.36:429][597]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.12.25-23.52.36:429][597]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.12.25-23.52.38:579][713]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.52.38:579][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.52.47:596][147]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PeleleFA8034624E862ED7F2DF928E59FA6E90.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Pelele.uasset'
+[2021.12.25-23.52.47:626][147]AssetCheck: New page: Asset Save: Pelele
+[2021.12.25-23.52.47:627][147]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele
+[2021.12.25-23.52.52:773][434]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/FuegoA9CC63DD4FAD5D7399DA30A7E8B60D3F.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Fuego.uasset'
+[2021.12.25-23.52.52:799][434]AssetCheck: New page: Asset Save: Fuego
+[2021.12.25-23.52.52:799][434]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego
+[2021.12.25-23.53.00:468][859]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.25-23.53.00:468][859]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.53.00:468][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.53.58:505][243]BlueprintLog: New page: Compile Pelele
+[2021.12.25-23.53.58:718][243]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2021.12.25-23.54.03:502][487]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.12.25-23.54.03:628][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.12.25-23.54.03:672][487]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap25A2C13847089CFC510775BD1DBACAD2.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.25-23.54.03:692][487]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.143
+[2021.12.25-23.54.03:732][487]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/MenúPrincipal491B3CF64385BD1E84EC44A1F602711D.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/MenúPrincipal.uasset'
+[2021.12.25-23.54.03:838][487]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PeleleD8D5663D4A87070DCAE71EB5CF608850.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Pelele.uasset'
+[2021.12.25-23.54.03:858][487]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/EnemigosEnGeneralFDD513F9417ECB7B4B42D1BC6F8362BE.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/EnemigosEnGeneral.uasset'
+[2021.12.25-23.54.03:897][487]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.25-23.54.03:897][487]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.25-23.54.03:897][487]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/ThirdPersonBP/Blueprints_propios/MenúPrincipal.MenúPrincipal
+[2021.12.25-23.54.03:898][487]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/EnemigosEnGeneral.EnemigosEnGeneral
+[2021.12.25-23.54.03:898][487]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Pelele.Pelele
+[2021.12.25-23.54.47:167][915]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.25-23.54.47:198][915]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.25-23.54.47:203][915]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.12.25-23.54.47:302][915]LogPlayLevel: [PlayLevel] Compiling EnemigosEnGeneral before play...
+[2021.12.25-23.54.47:368][915]LogPlayLevel: [PlayLevel] Compiling Fuego before play...
+[2021.12.25-23.54.47:431][915]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2021.12.25-23.54.47:482][915]LogPlayLevel: [PlayLevel] Compiling MenúPrincipal before play...
+[2021.12.25-23.54.47:733][915]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2021.12.25-23.54.47:743][915]LogPlayLevel: PlayLevel: Blueprint regeneration took 544 ms (5 blueprints)
+[2021.12.25-23.54.47:755][915]PIE: New page: PIE session: ThirdPersonExampleMap (26 dic. 2021 1:54:47)
+[2021.12.25-23.54.47:762][915]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-23.54.47:795][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032590s)
+[2021.12.25-23.54.47:800][915]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.25-23.54.47:813][915]LogPlayLevel: PIE: World Init took: (0.016845s)
+[2021.12.25-23.54.47:813][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050564s)
+[2021.12.25-23.54.47:909][915]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2021.12.25-23.54.47:913][915]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.12.25-23.54.47:917][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.25-23.54.47:918][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.25-23.54.47:918][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.25-23.54.47:918][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.25-23.54.47:918][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.25-23.54.47:918][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.25-23.54.47:918][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.25-23.54.47:919][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.25-23.54.47:924][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.25-23.54.47:924][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.25-23.54.47:924][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.25-23.54.47:924][915]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.25-23.54.47:934][915]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.25-23.54.47:935][915]LogAudioMixer: Display: 1: FrontRight
+[2021.12.25-23.54.47:984][915]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.25-23.54.47:991][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.25-23.54.47:991][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.25-23.54.47:992][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.25-23.54.47:993][915]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.25-23.54.47:995][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.25-23.54.47:995][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.25-23.54.47:998][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.25-23.54.47:998][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.25-23.54.47:998][915]LogInit: FAudioDevice initialized.
+[2021.12.25-23.54.47:999][915]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonExampleMap'.
+[2021.12.25-23.54.48:054][915]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.25-23.54.48:063][915]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.26-00.54.48
+[2021.12.25-23.54.48:066][915]LogWorld: Bringing up level for play took: 0.010401
+[2021.12.25-23.54.48:075][915]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2021.12.25-23.54.48:130][915]PIE: Server logged in
+[2021.12.25-23.54.48:132][915]PIE: Play in editor total start time 0,942 seconds.
+[2021.12.25-23.54.58:429][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.25-23.54.58:429][411]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-23.54.58:430][411]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.54.58:432][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.54.58:463][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.25-23.54.58:480][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.54.58:553][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.25-23.54.58:558][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-23.54.58:559][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-23.54.58:577][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.12.25-23.54.58:638][412]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2021.12.25-23.55.11:516][984]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego
+[2021.12.25-23.55.28:586][869]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.25-23.55.28:601][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.25-23.55.28:602][869]PIE: New page: PIE session: ThirdPersonExampleMap (26 dic. 2021 1:55:28)
+[2021.12.25-23.55.28:610][869]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-23.55.28:632][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022067s)
+[2021.12.25-23.55.28:635][869]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.25-23.55.28:635][869]LogPlayLevel: PIE: World Init took: (0.002693s)
+[2021.12.25-23.55.28:635][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025191s)
+[2021.12.25-23.55.28:724][869]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.12.25-23.55.28:730][869]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.12.25-23.55.28:730][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.25-23.55.28:730][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.25-23.55.28:730][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.25-23.55.28:730][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.25-23.55.28:730][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.25-23.55.28:730][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.25-23.55.28:730][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.25-23.55.28:730][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.25-23.55.28:731][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.25-23.55.28:731][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.25-23.55.28:731][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.25-23.55.28:731][869]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.25-23.55.28:736][869]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.25-23.55.28:736][869]LogAudioMixer: Display: 1: FrontRight
+[2021.12.25-23.55.28:773][869]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.25-23.55.28:774][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.25-23.55.28:774][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.25-23.55.28:774][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.25-23.55.28:775][869]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.25-23.55.28:775][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.25-23.55.28:775][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.25-23.55.28:777][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.25-23.55.28:778][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.25-23.55.28:778][869]LogInit: FAudioDevice initialized.
+[2021.12.25-23.55.28:778][869]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonExampleMap'.
+[2021.12.25-23.55.28:834][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.25-23.55.28:835][869]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.25-23.55.28:841][869]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.26-00.55.28
+[2021.12.25-23.55.28:843][869]LogWorld: Bringing up level for play took: 0.006773
+[2021.12.25-23.55.28:844][869]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.12.25-23.55.28:855][869]PIE: Server logged in
+[2021.12.25-23.55.28:858][869]PIE: Play in editor total start time 0,26 seconds.
+[2021.12.25-23.55.36:810][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.25-23.55.36:810][ 59]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-23.55.36:811][ 59]LogSlate: Window 'IV2021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.25-23.55.36:871][ 59]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.55.36:873][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.55.36:932][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.25-23.55.36:963][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.55.37:073][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.25-23.55.37:073][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-23.55.37:075][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-23.55.37:092][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2021.12.25-23.55.37:206][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.12.25-23.55.50:324][814]BlueprintLog: New page: Compile Command_Energia
+[2021.12.25-23.55.50:417][814]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2021.12.25-23.55.51:355][854]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Command_Energia4BD66EB542FC9CBB23ADF3B3D4668B37.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Command_Energia.uasset'
+[2021.12.25-23.55.51:385][854]AssetCheck: New page: Asset Save: Command_Energia
+[2021.12.25-23.55.51:385][854]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Command_Energia.Command_Energia
+[2021.12.25-23.55.52:991][940]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.25-23.55.53:003][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.25-23.55.53:004][940]PIE: New page: PIE session: ThirdPersonExampleMap (26 dic. 2021 1:55:53)
+[2021.12.25-23.55.53:010][940]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-23.55.53:031][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020953s)
+[2021.12.25-23.55.53:034][940]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.25-23.55.53:035][940]LogPlayLevel: PIE: World Init took: (0.003708s)
+[2021.12.25-23.55.53:035][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024988s)
+[2021.12.25-23.55.53:119][940]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2021.12.25-23.55.53:121][940]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.12.25-23.55.53:121][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.25-23.55.53:121][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.25-23.55.53:121][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.25-23.55.53:121][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.25-23.55.53:121][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.25-23.55.53:121][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.25-23.55.53:121][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.25-23.55.53:121][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.25-23.55.53:122][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.25-23.55.53:122][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.25-23.55.53:122][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.25-23.55.53:122][940]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.25-23.55.53:128][940]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.25-23.55.53:128][940]LogAudioMixer: Display: 1: FrontRight
+[2021.12.25-23.55.53:159][940]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.25-23.55.53:160][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.25-23.55.53:160][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.25-23.55.53:160][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.25-23.55.53:160][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.25-23.55.53:160][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.25-23.55.53:160][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.25-23.55.53:163][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.25-23.55.53:163][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.25-23.55.53:163][940]LogInit: FAudioDevice initialized.
+[2021.12.25-23.55.53:163][940]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonExampleMap'.
+[2021.12.25-23.55.53:229][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.25-23.55.53:229][940]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.25-23.55.53:236][940]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.26-00.55.53
+[2021.12.25-23.55.53:237][940]LogWorld: Bringing up level for play took: 0.006603
+[2021.12.25-23.55.53:239][940]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.12.25-23.55.53:258][940]PIE: Server logged in
+[2021.12.25-23.55.53:259][940]PIE: Play in editor total start time 0,261 seconds.
+[2021.12.25-23.58.59:874][ 23]LogSlate: Window 'IV2021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.25-23.59.00:209][ 23]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-23.59.00:212][ 23]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.59.00:218][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.59.00:320][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.25-23.59.00:479][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.59.01:371][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.25-23.59.01:374][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-23.59.01:385][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-23.59.01:630][ 23]LogUObjectHash: Compacting FUObjectHashTables data took  65.80ms
+[2021.12.25-23.59.01:856][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.12.25-23.59.09:323][113]BlueprintLog: New page: Compile Fuego
+[2021.12.25-23.59.10:497][113]LogUObjectHash: Compacting FUObjectHashTables data took  45.53ms
+[2021.12.25-23.59.12:580][125]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Fuego32CC9DC6435CC372DE449BAC653D773B.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Fuego.uasset'
+[2021.12.25-23.59.13:128][125]AssetCheck: New page: Asset Save: Fuego
+[2021.12.25-23.59.13:129][125]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Fuego.Fuego
+[2021.12.25-23.59.13:594][130]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.25-23.59.13:698][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.25-23.59.13:698][130]PIE: New page: PIE session: ThirdPersonExampleMap (26 dic. 2021 1:59:13)
+[2021.12.25-23.59.13:708][130]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-23.59.13:836][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126549s)
+[2021.12.25-23.59.13:846][130]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.25-23.59.13:849][130]LogPlayLevel: PIE: World Init took: (0.013032s)
+[2021.12.25-23.59.13:850][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.141270s)
+[2021.12.25-23.59.14:507][130]LogUObjectHash: Compacting FUObjectHashTables data took  52.17ms
+[2021.12.25-23.59.14:516][130]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.12.25-23.59.14:516][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.25-23.59.14:517][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.25-23.59.14:517][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.25-23.59.14:518][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.25-23.59.14:518][130]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.25-23.59.14:519][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.25-23.59.14:519][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.25-23.59.14:519][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.25-23.59.14:526][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.25-23.59.14:527][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.25-23.59.14:527][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.25-23.59.14:528][130]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.25-23.59.14:569][130]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.25-23.59.14:569][130]LogAudioMixer: Display: 1: FrontRight
+[2021.12.25-23.59.14:800][130]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.25-23.59.14:804][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.25-23.59.14:805][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.25-23.59.14:805][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.25-23.59.14:818][130]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.25-23.59.14:820][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.25-23.59.14:820][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.25-23.59.14:831][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.25-23.59.14:832][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.25-23.59.14:832][130]LogInit: FAudioDevice initialized.
+[2021.12.25-23.59.14:832][130]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonExampleMap'.
+[2021.12.25-23.59.15:020][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.25-23.59.15:022][130]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.25-23.59.15:056][130]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.26-00.59.15
+[2021.12.25-23.59.15:061][130]LogWorld: Bringing up level for play took: 0.032095
+[2021.12.25-23.59.15:062][130]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.12.25-23.59.15:115][130]PIE: Server logged in
+[2021.12.25-23.59.15:129][130]PIE: Play in editor total start time 1,454 seconds.
+[2021.12.25-23.59.19:105][217]LogSlate: Window 'IV2021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.25-23.59.19:211][217]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.25-23.59.19:212][217]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.25-23.59.19:218][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.59.19:263][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.25-23.59.19:297][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.25-23.59.19:406][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.25-23.59.19:407][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-23.59.19:409][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.25-23.59.19:424][217]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.12.25-23.59.19:497][218]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.12.25-23.59.28:990][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.12.25-23.59.29:104][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.12.25-23.59.29:156][735]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMapEE104A854FB0D4FD1AE3AFAAC30737BC.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.25-23.59.29:174][735]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.143
+[2021.12.25-23.59.29:202][735]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.12.25-23.59.29:202][735]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
