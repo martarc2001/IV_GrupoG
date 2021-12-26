@@ -2228,3 +2228,90 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.26-22.46.12:502][824]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.26-22.46.12:502][824]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/EnemigosEnGeneral.EnemigosEnGeneral
 [2021.12.26-22.46.12:502][824]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.26-23.02.07:214][917]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-23.02.07:214][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-23.02.08:592][952]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-23.02.08:592][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-23.02.10:009][999]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.26-23.02.10:009][999]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-23.02.10:009][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-23.02.10:845][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.26-23.02.10:845][ 15]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-23.02.10:845][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-23.02.25:118][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/AyudasAlJugador/Checkpoint.Checkpoint
+[2021.12.26-23.04.32:238][971]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.26-23.04.32:253][971]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.26-23.04.32:254][971]LogPlayLevel: [PlayLevel] Compiling Checkpoint before play...
+[2021.12.26-23.04.32:258][971]LogBlueprint: Warning: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\AyudasAlJugador\Checkpoint.uasset: [Compiler] Cast To ThirdPersonCharacter  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.26-23.04.32:260][971]LogBlueprint: Error: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\AyudasAlJugador\Checkpoint.uasset: [Compiler] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2021.12.26-23.04.32:267][971]LogBlueprint: Error: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\AyudasAlJugador\Checkpoint.uasset: [Compiler] Variable node  Get Energía  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.12.26-23.04.32:517][971]LogUObjectHash: Compacting FUObjectHashTables data took  11.57ms
+[2021.12.26-23.04.32:527][971]LogPlayLevel: PlayLevel: Blueprint regeneration took 274 ms (1 blueprints)
+[2021.12.26-23.04.32:527][971]BlueprintLog: Warning: Blueprint failed to compile:  Checkpoint
+[2021.12.26-23.04.32:529][971]LogCustomDialog: Dialog displayed:
+[2021.12.26-23.04.34:419][971]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.12.26-23.04.58:531][340]BlueprintLog: New page: Compile Checkpoint
+[2021.12.26-23.04.58:760][340]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2021.12.26-23.05.00:638][434]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.26-23.05.00:658][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.26-23.05.00:658][434]PIE: New page: PIE session: ThirdPersonExampleMap (27 dic. 2021 1:05:00)
+[2021.12.26-23.05.00:659][434]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.26-23.05.00:691][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032561s)
+[2021.12.26-23.05.00:694][434]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.26-23.05.00:695][434]LogPlayLevel: PIE: World Init took: (0.003361s)
+[2021.12.26-23.05.00:695][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036294s)
+[2021.12.26-23.05.00:780][434]LogUObjectHash: Compacting FUObjectHashTables data took  10.35ms
+[2021.12.26-23.05.00:782][434]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.12.26-23.05.00:782][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.26-23.05.00:782][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.26-23.05.00:782][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.26-23.05.00:782][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.26-23.05.00:782][434]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.26-23.05.00:782][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.26-23.05.00:782][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.26-23.05.00:782][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.26-23.05.00:783][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.26-23.05.00:784][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.26-23.05.00:784][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.26-23.05.00:784][434]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.26-23.05.00:791][434]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-23.05.00:791][434]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-23.05.00:830][434]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.26-23.05.00:832][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.26-23.05.00:832][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.26-23.05.00:832][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.26-23.05.00:833][434]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.26-23.05.00:833][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.26-23.05.00:833][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.26-23.05.00:836][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.26-23.05.00:836][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.26-23.05.00:836][434]LogInit: FAudioDevice initialized.
+[2021.12.26-23.05.00:836][434]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2021.12.26-23.05.00:897][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-23.05.00:898][434]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.26-23.05.00:904][434]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.27-00.05.00
+[2021.12.26-23.05.00:905][434]LogWorld: Bringing up level for play took: 0.006209
+[2021.12.26-23.05.00:906][434]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.12.26-23.05.00:920][434]PIE: Server logged in
+[2021.12.26-23.05.00:923][434]PIE: Play in editor total start time 0,269 seconds.
+[2021.12.26-23.05.29:197][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-23.05.29:197][908]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.26-23.05.29:198][908]LogSlate: Window 'IV2021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.26-23.05.29:230][908]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-23.05.29:232][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-23.05.29:258][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.26-23.05.29:284][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-23.05.29:373][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.26-23.05.29:373][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-23.05.29:375][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-23.05.29:394][908]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2021.12.26-23.05.29:438][909]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.12.26-23.05.35:436][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.12.26-23.05.35:547][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.12.26-23.05.35:603][239]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap264DBA644CBCFA0C4FDB7B97DFDD9186.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.26-23.05.35:621][239]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.141
+[2021.12.26-23.05.35:735][239]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Checkpoint85C4E0504EA66203971F6A815AD9D64C.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/AyudasAlJugador/Checkpoint.uasset'
+[2021.12.26-23.05.35:766][239]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.26-23.05.35:767][239]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/AyudasAlJugador/Checkpoint.Checkpoint
+[2021.12.26-23.05.35:767][239]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.26-23.05.38:084][365]LogSlate: Window 'Checkpoint' being destroyed

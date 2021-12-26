@@ -1,7 +1,5 @@
 REVISAR PORQUE LITERALMENTE NO SÉ QUÉ ME ESTÁ PREGUNTANDO EL ENUNCIADO YA QUE ESTO NO VENÍA EN LA TEORÍA Y VOY A LLORAR:
 
-• Get de la vida del personaje para sumar hasta 10 y no pasarnos (en checkpoint)
-
 • Revisar la interfaz porque literalmente no tiene sentido usarla
 
 • Comunicación mediante emisión de eventos???? Dude wtf
@@ -31,3 +29,5 @@ HECHO:
 • Debe haber un ejemplo de comunicación directa, otro de comunicación con interfaz y otro de comunicación mediante emisión de eventos.
 
 • Debe haber un elemento con movimiento que facilite lograr el objetivo del jugador y otro que lo dificulte.
+
+• Get de la vida del personaje para sumar hasta 10 y no pasarnos (en checkpoint)
