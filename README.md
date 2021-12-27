@@ -6,7 +6,7 @@ REVISAR PORQUE LITERALMENTE NO SÉ QUÉ ME ESTÁ PREGUNTANDO EL ENUNCIADO YA QUE
 
             O una función para checkear que el other actor es el jugador -> esto tiene menos sentido que el uso de las interfaces de por sí, voy a llorar
 
-• Comunicación mediante emisión de eventos???? Dude wtf ->  PONER LA MALDITA REFERENCIA A LA TRIGGER BOX GIGANTE QUE HAY EN EL MALDITO ESCENARIO // No puedo comprobarlo porque se reproducía desde el principio, pero funciona el set y todo eso???
+• Reconstruir luces -> Se me han roto al moverlas a la carpeta AAAAAAAAAAAAAAAAAAAAAA
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -19,6 +19,8 @@ EXTRAS QUE SE ME HAN OCURRIDO PERO QUE NO PROMETO QUE SALGAN:
 • Poner un widget abajo de la vida que te han quitado cada vez que te atacan
 
 • Técnicamente desde el menú principal puedes mover al personaje pero es bastante complicado de controlar creo??? no sé xd
+
+• Poder reiniciar el juego
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,3 +45,5 @@ HECHO:
 • Pantalla de ganar
 
 • Debe haber un widget que muestre el progreso en los objetivos del juego y otro que muestre la vida que tenemos.
+
+• Comunicación mediante emisión de eventos
