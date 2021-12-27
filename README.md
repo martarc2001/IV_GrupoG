@@ -6,12 +6,14 @@ REVISAR PORQUE LITERALMENTE NO SÉ QUÉ ME ESTÁ PREGUNTANDO EL ENUNCIADO YA QUE
 
 • Debe haber un widget que muestre el progreso en los objetivos del juego y otro que muestre la vida que tenemos. ->Está en un solo widget, no sé si quiere que lo dividamos en 2 y solapemos uno encima de otro :(
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 EXTRAS QUE SE ME HAN OCURRIDO PERO QUE NO PROMETO QUE SALGAN:
 
 • Poner un widget abajo de la vida que te han quitado cada vez que te atacan
 
+• Técnicamente desde el menú principal puedes mover al personaje pero es bastante complicado de controlar creo??? no sé xd
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 HECHO:
@@ -31,3 +33,5 @@ HECHO:
 • Get de la vida del personaje para sumar hasta 10 y no pasarnos (en checkpoint)
 
 • Debe haber un array de Target Points y se debe usar para algo.
+
+• Pantalla de ganar
