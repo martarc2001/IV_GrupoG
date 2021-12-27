@@ -6,7 +6,7 @@ REVISAR PORQUE LITERALMENTE NO SÉ QUÉ ME ESTÁ PREGUNTANDO EL ENUNCIADO YA QUE
 
             O una función para checkear que el other actor es el jugador -> esto tiene menos sentido que el uso de las interfaces de por sí, voy a llorar
 
-• Comunicación mediante emisión de eventos???? Dude wtf
+• Comunicación mediante emisión de eventos???? Dude wtf ->  PONER LA MALDITA REFERENCIA A LA TRIGGER BOX GIGANTE QUE HAY EN EL MALDITO ESCENARIO // No puedo comprobarlo porque se reproducía desde el principio, pero funciona el set y todo eso???
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 

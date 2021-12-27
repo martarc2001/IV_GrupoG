@@ -2633,3 +2633,366 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.27-13.17.21:507][262]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2021.12.27-13.17.21:507][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.12.27-13.17.31:855][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.12.27-13.21.26:370][723]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.27-13.21.26:375][723]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.27-13.21.27:517][723]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.27-13.21.27:535][723]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.27-13.21.27:568][723]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.27-13.21.35:420][954]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.12.27-13.21.35:432][954]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.27-13.21.43:145][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.12.27-13.21.44:648][332]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.27-13.21.44:783][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.12.27-13.21.50:396][570]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.27-13.21.50:400][570]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.27-13.21.51:810][570]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.27-13.21.51:846][570]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.27-13.21.51:876][570]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.27-13.22.03:087][ 75]LogContentBrowser: Attempting asset rename: NewBlueprint -> TriggerBoxCaidaCaja
+[2021.12.27-13.22.03:099][ 75]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.27-13.22.08:958][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja.TriggerBoxCaidaCaja
+[2021.12.27-13.22.38:255][ 52]BlueprintLog: New page: Compile TriggerBoxCaidaCaja
+[2021.12.27-13.22.38:331][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.12.27-13.29.46:037][573]LogSlate: Window 'TriggerBoxCaidaCaja' being destroyed
+[2021.12.27-13.29.52:528][941]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/TriggerBoxCaidaCaja23F3367540391E70E0AC5E921BB0E4F5.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja.uasset'
+[2021.12.27-13.29.52:562][941]AssetCheck: New page: Asset Save: TriggerBoxCaidaCaja
+[2021.12.27-13.29.52:563][941]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja.TriggerBoxCaidaCaja
+[2021.12.27-13.31.55:672][938]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/AyudasAlJugador/Checkpoint.Checkpoint
+[2021.12.27-13.32.45:889][811]BlueprintLog: New page: Compile Checkpoint
+[2021.12.27-13.32.46:009][811]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.12.27-13.32.46:627][835]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/CheckpointDF25FD004EC99860EF22AC9BEDEA8E07.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/AyudasAlJugador/Checkpoint.uasset'
+[2021.12.27-13.32.46:656][835]AssetCheck: New page: Asset Save: Checkpoint
+[2021.12.27-13.32.46:656][835]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/AyudasAlJugador/Checkpoint.Checkpoint
+[2021.12.27-13.32.48:842][966]BlueprintLog: New page: Compile TriggerBoxCaidaCaja
+[2021.12.27-13.32.48:923][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.12.27-13.32.55:382][289]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.27-13.32.55:399][289]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.27-13.32.55:402][289]LogPlayLevel: [PlayLevel] Compiling FinalPartida before play...
+[2021.12.27-13.32.55:500][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.12.27-13.32.55:501][289]LogPlayLevel: PlayLevel: Blueprint regeneration took 101 ms (1 blueprints)
+[2021.12.27-13.32.55:501][289]PIE: New page: PIE session: ThirdPersonExampleMap (27 dic. 2021 15:32:55)
+[2021.12.27-13.32.55:502][289]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.27-13.32.55:527][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024552s)
+[2021.12.27-13.32.55:529][289]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.27-13.32.55:530][289]LogPlayLevel: PIE: World Init took: (0.003034s)
+[2021.12.27-13.32.55:530][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028163s)
+[2021.12.27-13.32.55:579][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.12.27-13.32.55:580][289]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.12.27-13.32.55:580][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-13.32.55:580][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-13.32.55:580][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-13.32.55:580][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-13.32.55:580][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-13.32.55:580][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-13.32.55:580][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-13.32.55:580][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-13.32.55:581][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-13.32.55:581][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-13.32.55:581][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-13.32.55:581][289]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-13.32.55:588][289]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-13.32.55:588][289]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-13.32.55:617][289]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.27-13.32.55:618][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-13.32.55:618][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-13.32.55:618][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-13.32.55:619][289]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-13.32.55:619][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-13.32.55:619][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-13.32.55:621][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-13.32.55:621][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-13.32.55:621][289]LogInit: FAudioDevice initialized.
+[2021.12.27-13.32.55:621][289]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonExampleMap'.
+[2021.12.27-13.32.55:641][289]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.27-13.32.55:647][289]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.27-14.32.55
+[2021.12.27-13.32.55:647][289]LogWorld: Bringing up level for play took: 0.005062
+[2021.12.27-13.32.55:648][289]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2021.12.27-13.32.55:655][289]PIE: Server logged in
+[2021.12.27-13.32.55:657][289]PIE: Play in editor total start time 0,261 seconds.
+[2021.12.27-13.32.58:285][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-13.32.58:285][417]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.27-13.32.58:286][417]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-13.32.58:287][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.32.58:314][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-13.32.58:344][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.32.58:385][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-13.32.58:386][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-13.32.58:387][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-13.32.58:396][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.12.27-13.32.58:449][418]Cmd: SELECT NONE
+[2021.12.27-13.32.58:465][418]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2021.12.27-13.33.01:379][550]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.27-13.33.01:396][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-13.33.01:396][550]PIE: New page: PIE session: ThirdPersonExampleMap (27 dic. 2021 15:33:01)
+[2021.12.27-13.33.01:396][550]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.27-13.33.01:421][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024911s)
+[2021.12.27-13.33.01:423][550]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.27-13.33.01:423][550]LogPlayLevel: PIE: World Init took: (0.001971s)
+[2021.12.27-13.33.01:424][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027228s)
+[2021.12.27-13.33.01:467][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.12.27-13.33.01:469][550]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.12.27-13.33.01:469][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-13.33.01:469][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-13.33.01:475][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-13.33.01:475][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-13.33.01:475][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-13.33.01:475][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-13.33.01:475][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-13.33.01:475][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-13.33.01:476][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-13.33.01:476][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-13.33.01:476][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-13.33.01:476][550]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-13.33.01:481][550]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-13.33.01:481][550]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-13.33.01:508][550]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.27-13.33.01:509][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-13.33.01:509][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-13.33.01:509][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-13.33.01:509][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-13.33.01:509][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-13.33.01:509][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-13.33.01:511][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-13.33.01:511][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-13.33.01:511][550]LogInit: FAudioDevice initialized.
+[2021.12.27-13.33.01:511][550]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonExampleMap'.
+[2021.12.27-13.33.01:527][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.27-13.33.01:530][550]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.27-14.33.01
+[2021.12.27-13.33.01:531][550]LogWorld: Bringing up level for play took: 0.003604
+[2021.12.27-13.33.01:531][550]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.12.27-13.33.01:539][550]PIE: Server logged in
+[2021.12.27-13.33.01:540][550]PIE: Play in editor total start time 0,147 seconds.
+[2021.12.27-13.33.11:748][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-13.33.11:749][ 67]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.27-13.33.11:749][ 67]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-13.33.11:750][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.33.11:778][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-13.33.11:784][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.33.11:825][ 67]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-13.33.11:825][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-13.33.11:827][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-13.33.11:831][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-13.33.11:837][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.12.27-13.33.11:873][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.12.27-13.33.39:309][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.12.27-13.33.39:376][473]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap_Auto66422B9084E415CA32867B99BB1138BFE.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.12.27-13.33.39:379][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.119
+[2021.12.27-13.33.39:379][473]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.119
+[2021.12.27-13.33.39:380][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja] ([2] browsable assets)...
+[2021.12.27-13.33.39:380][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja]
+[2021.12.27-13.33.39:391][473]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/TriggerBoxCaidaCaja_Auto68CDC609748FE1FBD7A2B3D90103C1BA7.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Autosaves/Game/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja_Auto6.uasset'
+[2021.12.27-13.33.39:393][473]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.12.27-13.33.40:585][543]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-13.33.40:585][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.35.53:044][332]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/TriggerBoxCaidaCaja3AC5E87A4D68B891F7A6B9A1BAB93E6A.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja.uasset'
+[2021.12.27-13.35.53:065][332]AssetCheck: New page: Asset Save: TriggerBoxCaidaCaja
+[2021.12.27-13.35.53:065][332]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja.TriggerBoxCaidaCaja
+[2021.12.27-13.38.04:855][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.PuertaQueAplastaAlJugador
+[2021.12.27-13.41.16:039][198]BlueprintLog: New page: Compile PuertaQueAplastaAlJugador
+[2021.12.27-13.41.16:061][198]LogBlueprint: Error: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\Enemigos\PuertaQueAplastaAlJugador.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To TriggerBoxCaidaCaja  to imply a specific type.
+[2021.12.27-13.41.16:061][198]LogBlueprint: Error: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\Enemigos\PuertaQueAplastaAlJugador.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.12.27-13.41.16:178][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.12.27-13.42.12:854][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.12.27-13.42.13:886][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.12.27-13.42.15:527][191]Cmd: TRANSACTION UNDO
+[2021.12.27-13.42.15:527][191]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.27-13.42.16:922][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.12.27-13.42.17:749][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.12.27-13.42.18:395][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.12.27-13.42.19:098][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.12.27-13.42.20:431][419]LogEditorViewport: Clicking on Actor (LMB): TriggerBoxCaidaCaja_C (TriggerBoxCaidaCaja)
+[2021.12.27-13.42.24:935][656]Cmd: TRANSACTION UNDO
+[2021.12.27-13.42.24:935][656]LogEditorTransaction: Undo Move Actors
+[2021.12.27-13.42.52:205][969]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.12.27-13.44.02:372][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.27-13.44.05:894][954]LogEditorViewport: Clicking on Actor (LMB): PuertaQueAplastaAlJugador_C (PuertaQueAplastaAlJugador2)
+[2021.12.27-13.44.31:294][266]BlueprintLog: New page: Compile PuertaQueAplastaAlJugador
+[2021.12.27-13.44.31:419][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.12.27-13.44.35:213][462]LogEditorViewport: Clicking on Actor (LMB): PuertaQueAplastaAlJugador_C (PuertaQueAplastaAlJugador)
+[2021.12.27-13.45.08:605][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.12.27-13.45.08:714][ 95]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap_Auto727B40E7E4AA9375C0797929CF0E5A674.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2021.12.27-13.45.08:721][ 95]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.166
+[2021.12.27-13.45.08:721][ 95]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.166
+[2021.12.27-13.45.08:722][ 95]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador] ([2] browsable assets)...
+[2021.12.27-13.45.08:785][ 95]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.PuertaQueAplastaAlJugador]
+[2021.12.27-13.45.08:785][ 95]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador]
+[2021.12.27-13.45.08:819][ 95]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PuertaQueAplastaAlJugador_Auto77CD5C6974006E4D3C1928AB6B30F0AF0.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Autosaves/Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador_Auto7.uasset'
+[2021.12.27-13.45.08:822][ 95]LogFileHelpers: Auto-saving content packages took 0.102
+[2021.12.27-13.46.14:406][824]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PuertaQueAplastaAlJugador6DF3F3C44056EE136B827991E18DEB62.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.uasset'
+[2021.12.27-13.46.14:434][824]AssetCheck: New page: Asset Save: PuertaQueAplastaAlJugador
+[2021.12.27-13.46.14:434][824]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.PuertaQueAplastaAlJugador
+[2021.12.27-13.47.07:541][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.12.27-13.47.07:620][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.27-13.47.07:679][944]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap3FC275CB46B480C31D806092487D193A.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.27-13.47.07:710][944]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.136
+[2021.12.27-13.47.07:883][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.12.27-13.47.07:940][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.12.27-13.47.07:984][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.27-13.47.07:995][944]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.12.27-13.47.07:995][944]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.27-13.48.59:746][236]LogSlate: Window 'Grid' being destroyed
+[2021.12.27-13.49.02:926][419]LogSlate: Window 'Grid' being destroyed
+[2021.12.27-13.49.37:502][187]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-13.49.37:502][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.49.39:568][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.27-13.49.39:568][295]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-13.49.39:568][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.49.42:211][438]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.12.27-13.49.42:300][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.12.27-13.49.46:025][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.12.27-13.49.46:085][652]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMapBF16F5964ED373D14B51318E57438A9E.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.27-13.49.46:103][652]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.119
+[2021.12.27-13.49.46:124][652]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.12.27-13.49.46:124][652]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.27-13.49.46:617][681]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-13.49.46:618][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.50.07:369][833]LogSlate: Window 'Grid' being destroyed
+[2021.12.27-13.50.29:898][123]LogSlate: Window 'Details' being destroyed
+[2021.12.27-13.50.31:664][194]LogSlate: Window 'Details' being destroyed
+[2021.12.27-13.51.24:593][521]LogSlate: Window 'PuertaQueAplastaAlJugador_2 - Property Editor' being destroyed
+[2021.12.27-13.51.31:264][843]LogSlate: Window 'PuertaQueAplastaAlJugador_2 - Property Editor' being destroyed
+[2021.12.27-13.51.54:139][123]LogSlate: Window 'Content Browser' being destroyed
+[2021.12.27-13.52.14:245][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.PuertaQueAplastaAlJugador
+[2021.12.27-13.56.22:621][323]BlueprintLog: New page: Compile PuertaQueAplastaAlJugador
+[2021.12.27-13.56.22:626][323]LogBlueprint: Error: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\Enemigos\PuertaQueAplastaAlJugador.uasset: [Compiler] This blueprint (self) is not a TriggerBoxCaidaCaja_C, therefore ' Target ' must have a connection.
+[2021.12.27-13.56.22:709][323]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.12.27-13.56.36:671][149]BlueprintLog: New page: Compile PuertaQueAplastaAlJugador
+[2021.12.27-13.56.36:676][149]LogBlueprint: Error: [AssetLog] C:\Users\MARTA\Documents\GitHub\IV_GrupoG\IV2021\Content\ThirdPersonBP\Blueprints_propios\Enemigos\PuertaQueAplastaAlJugador.uasset: [Compiler] This blueprint (self) is not a TriggerBoxCaidaCaja_C, therefore ' Target ' must have a connection.
+[2021.12.27-13.56.36:749][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.12.27-13.56.48:402][834]BlueprintLog: New page: Compile PuertaQueAplastaAlJugador
+[2021.12.27-13.56.48:479][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.12.27-13.56.50:616][954]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.27-13.56.50:627][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-13.56.50:627][954]PIE: New page: PIE session: ThirdPersonExampleMap (27 dic. 2021 15:56:50)
+[2021.12.27-13.56.50:627][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.27-13.56.50:652][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023903s)
+[2021.12.27-13.56.50:654][954]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.27-13.56.50:654][954]LogPlayLevel: PIE: World Init took: (0.002634s)
+[2021.12.27-13.56.50:654][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026858s)
+[2021.12.27-13.56.50:695][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.12.27-13.56.50:696][954]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.12.27-13.56.50:696][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-13.56.50:696][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-13.56.50:696][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-13.56.50:696][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-13.56.50:696][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-13.56.50:696][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-13.56.50:696][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-13.56.50:696][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-13.56.50:697][954]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-13.56.50:697][954]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-13.56.50:697][954]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-13.56.50:697][954]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-13.56.50:703][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-13.56.50:703][954]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-13.56.50:734][954]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.27-13.56.50:734][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-13.56.50:735][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-13.56.50:735][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-13.56.50:736][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-13.56.50:736][954]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-13.56.50:736][954]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-13.56.50:739][954]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-13.56.50:739][954]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-13.56.50:739][954]LogInit: FAudioDevice initialized.
+[2021.12.27-13.56.50:739][954]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonExampleMap'.
+[2021.12.27-13.56.50:803][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-13.56.50:803][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.27-13.56.50:810][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.27-14.56.50
+[2021.12.27-13.56.50:811][954]LogWorld: Bringing up level for play took: 0.005941
+[2021.12.27-13.56.50:811][954]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2021.12.27-13.56.50:824][954]PIE: Server logged in
+[2021.12.27-13.56.50:826][954]PIE: Play in editor total start time 0,202 seconds.
+[2021.12.27-13.57.05:265][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-13.57.05:265][293]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.27-13.57.05:266][293]LogSlate: Window 'IV2021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-13.57.05:337][293]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-13.57.05:339][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.57.05:354][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-13.57.05:372][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-13.57.05:427][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-13.57.05:428][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-13.57.05:429][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-13.57.05:442][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.12.27-13.57.05:477][294]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2021.12.27-13.57.09:455][522]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PuertaQueAplastaAlJugador3DDCFD09424779507F3D27A91B19488E.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.uasset'
+[2021.12.27-13.57.09:484][522]AssetCheck: New page: Asset Save: PuertaQueAplastaAlJugador
+[2021.12.27-13.57.09:484][522]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.PuertaQueAplastaAlJugador
+[2021.12.27-13.57.44:583][156]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/TriggerBoxCaidaCaja.TriggerBoxCaidaCaja
+[2021.12.27-13.58.50:783][ 21]BlueprintLog: New page: Compile PuertaQueAplastaAlJugador
+[2021.12.27-13.58.50:875][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.12.27-13.59.12:195][249]LogEditorTransaction: Undo Move Node
+[2021.12.27-13.59.14:658][378]LogEditorTransaction: Undo Add Node
+[2021.12.27-14.01.03:664][700]BlueprintLog: New page: Compile PuertaQueAplastaAlJugador
+[2021.12.27-14.01.03:751][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.12.27-14.01.05:415][796]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.27-14.01.05:426][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-14.01.05:426][796]PIE: New page: PIE session: ThirdPersonExampleMap (27 dic. 2021 16:01:05)
+[2021.12.27-14.01.05:426][796]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.27-14.01.05:451][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024360s)
+[2021.12.27-14.01.05:454][796]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.27-14.01.05:454][796]LogPlayLevel: PIE: World Init took: (0.002881s)
+[2021.12.27-14.01.05:454][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027674s)
+[2021.12.27-14.01.05:499][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.12.27-14.01.05:500][796]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.12.27-14.01.05:500][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-14.01.05:500][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-14.01.05:500][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-14.01.05:500][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-14.01.05:500][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-14.01.05:500][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-14.01.05:500][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-14.01.05:500][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-14.01.05:501][796]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-14.01.05:501][796]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-14.01.05:501][796]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-14.01.05:501][796]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-14.01.05:506][796]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-14.01.05:506][796]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-14.01.05:535][796]LogAudioMixer: Display: Using Audio Device Altavoz/Auricular (Realtek High Definition Audio)
+[2021.12.27-14.01.05:536][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-14.01.05:536][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-14.01.05:536][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-14.01.05:536][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-14.01.05:536][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-14.01.05:537][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-14.01.05:538][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-14.01.05:538][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-14.01.05:538][796]LogInit: FAudioDevice initialized.
+[2021.12.27-14.01.05:539][796]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonExampleMap'.
+[2021.12.27-14.01.05:612][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-14.01.05:613][796]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.27-14.01.05:628][796]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.27-15.01.05
+[2021.12.27-14.01.05:630][796]LogWorld: Bringing up level for play took: 0.014338
+[2021.12.27-14.01.05:631][796]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2021.12.27-14.01.05:645][796]PIE: Server logged in
+[2021.12.27-14.01.05:646][796]PIE: Play in editor total start time 0,224 seconds.
+[2021.12.27-14.01.16:165][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-14.01.16:165][ 41]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.27-14.01.16:165][ 41]LogSlate: Window 'IV2021 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-14.01.16:250][ 41]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-14.01.16:251][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-14.01.16:276][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-14.01.16:294][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-14.01.16:350][ 41]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-14.01.16:351][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-14.01.16:352][ 41]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-14.01.16:368][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2021.12.27-14.01.16:396][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2021.12.27-14.01.42:864][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.12.27-14.01.42:936][262]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap_Auto803DA0E4B42964E44C034A9933F414C2C.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2021.12.27-14.01.42:940][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.136
+[2021.12.27-14.01.42:940][262]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.136
+[2021.12.27-14.01.42:941][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador] ([2] browsable assets)...
+[2021.12.27-14.01.43:019][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.PuertaQueAplastaAlJugador]
+[2021.12.27-14.01.43:021][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador]
+[2021.12.27-14.01.43:073][262]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PuertaQueAplastaAlJugador_Auto8DE8232084D79226776E678B2CB2BFE90.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/Autosaves/Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador_Auto8.uasset'
+[2021.12.27-14.01.43:075][262]LogFileHelpers: Auto-saving content packages took 0.135
+[2021.12.27-14.05.43:779][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.12.27-14.05.43:860][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.27-14.05.43:923][407]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/ThirdPersonExampleMap8132E9534D0643832E03419B0954D5F0.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.27-14.05.43:942][407]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.123
+[2021.12.27-14.05.43:970][407]LogSavePackage: Moving '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Saved/PuertaQueAplastaAlJugador7C09C49445A3BA6074BC97ADC5610656.tmp' to '../../../../../../Users/MARTA/Documents/GitHub/IV_GrupoG/IV2021/Content/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.uasset'
+[2021.12.27-14.05.43:996][407]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-14.05.43:996][407]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints_propios/Enemigos/PuertaQueAplastaAlJugador.PuertaQueAplastaAlJugador
+[2021.12.27-14.05.43:996][407]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
