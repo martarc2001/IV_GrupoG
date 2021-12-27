@@ -4,8 +4,6 @@ REVISAR PORQUE LITERALMENTE NO SÉ QUÉ ME ESTÁ PREGUNTANDO EL ENUNCIADO YA QUE
 
 • Comunicación mediante emisión de eventos???? Dude wtf
 
-• Debe haber un array de Target Points y se debe usar para algo. -> Haber array lo hay en el blueprint del nivel pero sigo sin verle sentido si no lo usas para nada concreto
-
 • Debe haber un widget que muestre el progreso en los objetivos del juego y otro que muestre la vida que tenemos. ->Está en un solo widget, no sé si quiere que lo dividamos en 2 y solapemos uno encima de otro :(
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,3 +29,5 @@ HECHO:
 • Debe haber un elemento con movimiento que facilite lograr el objetivo del jugador y otro que lo dificulte.
 
 • Get de la vida del personaje para sumar hasta 10 y no pasarnos (en checkpoint)
+
+• Debe haber un array de Target Points y se debe usar para algo.
