@@ -1,11 +1,5 @@
 REVISAR PORQUE LITERALMENTE NO SÉ QUÉ ME ESTÁ PREGUNTANDO EL ENUNCIADO YA QUE ESTO NO VENÍA EN LA TEORÍA Y VOY A LLORAR:
 
-• Revisar la interfaz porque literalmente no tiene sentido usarla -> Ahora mismo hay algo puesto en el blueprint de thirdpersoncharacter pero hay que revisarlo: https://www.youtube.com/watch?v=G_hLUkm7v44&ab_channel=MathewWadstein
-
-            A lo mejor se puede hacer algo tipo una interfaz para una función que creemos en los enemigos que simplemente llame al command y haga lo de ejecutar
-
-            O una función para checkear que el other actor es el jugador -> esto tiene menos sentido que el uso de las interfaces de por sí, voy a llorar
-
 • Reconstruir luces -> Se me han roto al moverlas a la carpeta AAAAAAAAAAAAAAAAAAAAAA
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,3 +41,5 @@ HECHO:
 • Debe haber un widget que muestre el progreso en los objetivos del juego y otro que muestre la vida que tenemos.
 
 • Comunicación mediante emisión de eventos
+
+• Revisar la interfaz porque literalmente no tiene sentido usarla
